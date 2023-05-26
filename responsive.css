@@ -1,0 +1,148 @@
+@media (min-width: 300px) and (max-width: 600px) {
+  .heading {
+    width: 90%;
+  }
+
+  .left-side {
+    display: none;
+  }
+
+  .right-side {
+    width: 100%;
+  }
+
+  .border {
+    width: 15%;
+  }
+
+  .service-item {
+    min-width: 80%;
+    width: 80%;
+  }
+
+  .service-item .item-heading {
+    font-size: 1.1rem;
+  }
+
+  .service-item .item-info {
+    letter-spacing: 0px;
+  }
+
+  .service-item .btn {
+    width: 50%;
+    font-weight: 600;
+  }
+
+  /* About */
+  .about-section {
+    width: 100%;
+  }
+
+  .about-container {
+    width: 80%;
+    margin: 0px auto;
+  }
+
+  .about-container .item-heading {
+    font-size: 1.5rem;
+  }
+
+  .about-container .item-info {
+    font-size: 1rem;
+  }
+
+  /* Footer */
+  .footer-item-heading .border-line {
+    width: 75%;
+  }
+
+  .footer-box {
+    flex-direction: column;
+  }
+
+  .footer-item {
+    width: 80%;
+  }
+
+  .footer-item-details input {
+    font-size: 1.25rem;
+    padding: 5px;
+  }
+}
+
+@media (min-width: 600px) and (max-width: 1200px) {
+  /* .left-side {
+    display: none;
+  } */
+
+  .navbar {
+    width: 90%;
+  }
+
+  .nav-item img {
+    width: 80%;
+  }
+
+  .heading {
+    width: 60%;
+  }
+
+  .right-side {
+    width: 95%;
+  }
+
+  .border {
+    width: 10%;
+  }
+
+  .service-item {
+    min-width: 40%;
+    width: 40%;
+  }
+
+  .service-item .item-heading {
+    font-size: 1.15rem;
+  }
+
+  .service-item .item-info {
+    letter-spacing: 1px;
+  }
+
+  .service-item .btn {
+    width: 50%;
+    font-weight: 600;
+  }
+
+  /* About */
+  .about-section {
+    width: 100%;
+  }
+
+  .about-container {
+    width: 80%;
+    margin: 0px auto;
+  }
+
+  .about-container .item-heading {
+    font-size: 1.75rem;
+  }
+
+  .about-container .item-info {
+    font-size: 1.25rem;
+    letter-spacing: 0px;
+  }
+
+  /* Footer */
+  .footer-item-heading .border-line {
+    width: 75%;
+  }
+
+  .footer-item {
+    width: 35%;
+  }
+
+  .footer-item-details input {
+    font-size: 1.25rem;
+    padding: 5px;
+  }
+}

@@ -301,7 +301,7 @@ a {
 .service-container {
   display: flex;
   justify-content: space-between;
-  align-items: center;
+  align-items: stretch;
   overflow-x: scroll;
 }
 
@@ -372,13 +372,14 @@ a {
 
 .footer-box {
   display: flex;
+  flex-wrap: wrap;
   justify-content: center;
   align-items: flex-start;
 }
 
 .footer-item {
   width: 25%;
-  margin: 20px 5%;
+  margin: 20px 2.5%;
 }
 
 .footer-item-heading {
@@ -417,7 +418,7 @@ a {
 }
 
 .footer-item-details input {
-  width: 100%;
+  width: 90%;
   background-color: var(--white);
   font-size: 1.5rem;
   padding: 10px;
