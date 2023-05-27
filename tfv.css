@@ -362,6 +362,7 @@ a {
 .about-container {
   padding: 10px 20px;
   background-image: url("images/TFV\ background.jpeg");
+  background-blend-mode: lighten;
   background-position: center;
   background-repeat: no-repeat;
   background-size: cover;
