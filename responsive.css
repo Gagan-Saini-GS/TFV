@@ -11,6 +11,58 @@
     width: 100%;
   }
 
+  .logo-img {
+    width: 2rem;
+  }
+
+  .company-name {
+    font-size: 1rem;
+    padding: 0px 10px;
+  }
+
+  .more-icon {
+    display: block;
+  }
+
+  .left-hero-box {
+    width: 100%;
+  }
+
+  .intro-card {
+    width: 90%;
+  }
+
+  .intro-card h2 {
+    font-size: 1.2rem;
+  }
+
+  .intro-card-detail {
+    font-size: 1.25rem;
+  }
+
+  .circle-top {
+    top: 8rem;
+    right: 0rem;
+  }
+
+  .circle-bottom {
+    top: 20rem;
+    left: -10%;
+  }
+
+  .btn-section {
+    width: 90%;
+    justify-content: space-evenly;
+  }
+
+  .hire-us-btn a {
+    margin: 0px;
+  }
+
+  .right-hero-box {
+    display: none;
+  }
+
   .border {
     width: 15%;
   }
@@ -74,6 +126,32 @@
   /* .left-side {
     display: none;
   } */
+
+  .left-hero-box {
+    width: 100%;
+  }
+
+  .intro-card {
+    width: 95%;
+  }
+
+  .btn-section {
+    width: 96%;
+  }
+
+  .circle-top {
+    top: 10rem;
+    right: 0px;
+  }
+
+  .circle-bottom {
+    top: 21rem;
+    left: 5%;
+  }
+
+  .right-hero-box {
+    display: none;
+  }
 
   .navbar {
     width: 90%;
